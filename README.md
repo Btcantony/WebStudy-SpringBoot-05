@@ -7,7 +7,9 @@
 
 <h1>📆 개발일정</h1>
 <br>
-2023.06 ~ 2023.06<br><br>
+2023.06 ~ 2023.06<br>
+2023.07 ~ 2023.07 (댓글기능 추가)
+<br>
 <br>
 
 
@@ -70,3 +72,27 @@
 
 <img width="700" alt="image" src="https://github.com/Btcantony/WebStudy-SpringBoot-05/assets/94521647/57e917b5-ee4d-49f9-8182-d8421745c1da">
 <br> <br>
+<br> <br>
+
+<li> 댓글 등록 (23.07 ~) <br> <br>
+&nbsp;&nbsp; : 댓글 등록 모달 
+ <br><br></li><br> <br>
+
+
+<img width="700" alt="image" src="https://github.com/Btcantony/WebStudy-SpringBoot-05/assets/94521647/45640071-23cb-440a-8604-d41580bbac5c">
+<img width="700" alt="image" src="https://github.com/Btcantony/WebStudy-SpringBoot-05/assets/94521647/e7a7a763-0688-4700-8d98-c7d860bc6773">
+
+<li> 댓글 수정 <br> <br>
+&nbsp;&nbsp; : 댓글 수정
+ <br><br></li><br> <br>
+
+<img width="700" alt="image" src="https://github.com/Btcantony/WebStudy-SpringBoot-05/assets/94521647/b01b274f-fc55-4c2c-a1ee-2a9c0a9b94ba">
+
+
+<li> 댓글 삭제 <br> <br>
+&nbsp;&nbsp; : 댓글 삭제
+ <br><br></li><br> <br>
+
+<img width="700" alt="image" src="https://github.com/Btcantony/WebStudy-SpringBoot-05/assets/94521647/000d5f70-d544-4f49-84ae-4c8650873dbc">
+
+
